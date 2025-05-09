@@ -32,4 +32,6 @@ Hoja de vida con 4 carpetas debido a los requerimientos pedidos
 ## Notas Adicionales ℹ️
 --------------------
 Link de perfil de git: https://github.com/Nik1304
+Link de git hub pages: https://nik1304.github.io/Hojadevida/ 
+
 
