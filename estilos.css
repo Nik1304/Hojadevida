@@ -1,4 +1,4 @@
-
+/* Estilos generales */
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +11,6 @@ body {
     color: #333;
     background-color: #f9f9f9;
 }
-
 
 .header {
     background-color: #2c3e50;
@@ -47,6 +46,7 @@ body {
     color: #ecf0f1;
 }
 
+
 .navegacion {
     background-color: #34495e;
     padding: 1rem;
@@ -72,7 +72,7 @@ body {
     background-color: #2c3e50;
 }
 
-
+/* Contenido principal */
 .contenido {
     max-width: 1200px;
     margin: 0 auto;
@@ -85,7 +85,14 @@ body {
     margin-bottom: 2rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
+}@font-face {
+    font-family: 'MiFuente';
+    src: url('fonts/Brick.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
 
 .seccion h2 {
     color: #2c3e50;
@@ -104,7 +111,14 @@ body {
     margin-bottom: 0.5rem;
 }
 
-.empresa {
+.empresa {@font-face {
+    font-family: 'MiFuente';
+    src: url('fonts/Brick.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
     color: #7f8c8d;
     font-weight: bold;
 }
