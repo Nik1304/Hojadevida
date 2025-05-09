@@ -26,12 +26,22 @@ Lista de programas utilizados:
 - CSS
 - HTML 
 
-## Conclusion
+## CONCLUSION
 Hoja de vida con 4 carpetas debido a los requerimientos pedidos 
 
-## Notas Adicionales ℹ️
+## ESQUEMA DE PROYECTO
+
+hoja-de-vida/
+├── estilos.css
+├── fonts/
+├── index.html
+├── readme.md
+└── foto.png
+
+## NOTAS ADICIONALES ℹ️
 --------------------
 Link de perfil de git: https://github.com/Nik1304
+
 Link de git hub pages: https://nik1304.github.io/Hojadevida/ 
 
 
