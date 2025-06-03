@@ -26,9 +26,6 @@ Lista de programas utilizados:
 - CSS
 - HTML 
 
-## CONCLUSION
-Hoja de vida con 4 carpetas debido a los requerimientos pedidos 
-
 ## ESQUEMA DE PROYECTO
 
 hoja-de-vida/
